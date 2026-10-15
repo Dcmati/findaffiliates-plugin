@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "findaffiliates",
+  "description": "The FindAffiliates plugin for Claude: affiliate program research and FindAffiliates website tools.",
+  "owner": {
+    "name": "FindAffiliates",
+    "email": "findaffiliatescontact@gmail.com",
+    "url": "https://www.findaffiliates.online"
+  },
+  "plugins": [
+    {
+      "name": "findaffiliates",
+      "source": "./",
+      "description": "Research affiliate programs and use FindAffiliates tools through the website.",
+      "category": "productivity",
+      "tags": [
+        "affiliate-marketing",
+        "research",
+        "calculators"
+      ]
+    }
+  ]
+}

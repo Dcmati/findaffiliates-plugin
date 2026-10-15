@@ -2,7 +2,7 @@
 
 Skills for researching affiliate programs and using the public tools on [FindAffiliates](https://www.findaffiliates.online). An agent can find programs for a niche and audience, compare published offers, model earnings and content ROI, plan a company's affiliate program, read guides, and work in an existing FindAffiliates account when the user asks.
 
-This is a skills-only plugin. It contains instructions, not a service: no MCP server, backend, API key, or credentials. The agent works through the FindAffiliates website with the browser and web access it already has. In Grok Bot, that is the browser on the Bot's cloud computer.
+This is a skills-only plugin. It contains instructions, not a service: no MCP server, backend, API key, or credentials. The agent works through the FindAffiliates website with the browser and web access it already has, such as the browser on a Grok Bot's cloud computer, Claude in Chrome, or the browser in Claude Cowork.
 
 ## Skills
 
@@ -22,12 +22,22 @@ This is a skills-only plugin. It contains instructions, not a service: no MCP se
 - Compare two affiliate programs and estimate earnings using assumptions I provide.
 - Help me choose an affiliate commission and check my company's launch readiness.
 
+## Install
+
+- **Grok Bot:** open **Connect apps**, find FindAffiliates, and choose **Add**.
+- **Claude apps (claude.ai, the desktop app, and Cowork):** open **Customize > Plugins**, choose **Add > Add marketplace**, enter `Dcmati/findaffiliates-plugin`, and add FindAffiliates.
+- **Claude Code** 2.1.275 or later: run this in a session.
+
+```
+/plugin install findaffiliates --marketplace Dcmati/findaffiliates-plugin
+```
+
 ## Requirements and access
 
 - Program research, comparisons, calculators, planning tools, and guides need no FindAffiliates account. Guest and free sessions see a limited directory preview, and the plugin says so when it affects a result.
 - Account features (profile, bookmarks, saved Program Finder results, and the company owner dashboard) need the user's own account and existing access. Some need FindAffiliates PRO or a verified company email. Installing the plugin does not grant access.
-- The user signs in on the website. In Grok Bot, take control of the Bot's computer for the sign-in step. Never paste a password, verification code, or session cookie into chat. Grok Bot keeps browser sessions on your shared Bot computer, so the sign-in stays available to your other Bots until you sign out.
-- Interactive tools need a browser that can operate page controls. Without one, the plugin gives the relevant link and steps and says that no result was checked.
+- The user signs in on the website. In Grok Bot, take control of the Bot's computer for the sign-in step. Never paste a password, verification code, or session cookie into chat. Grok Bot keeps browser sessions on your shared Bot computer, so the sign-in stays available to your other Bots until you sign out. Claude in Chrome uses the sign-ins already in your Chrome, and Claude Cowork's built-in browser keeps the logins you make there.
+- Interactive tools need a browser that can operate page controls. Without one, as in a Claude chat that has only web search, the plugin gives the relevant link and steps and says that no result was checked.
 - Some websites block traffic from cloud computers. If FindAffiliates asks for verification, the agent hands that step to you.
 
 ## What it will not do

@@ -4,7 +4,7 @@ The public cases need no FindAffiliates account and no test credentials. The plu
 
 ## Setup
 
-1. Install FindAffiliates. In Grok Bot, open **Connect apps**, find FindAffiliates, and choose **Add**.
+1. Install FindAffiliates. In Grok Bot, open **Connect apps**, find FindAffiliates, and choose **Add**. In Claude, add the marketplace `Dcmati/findaffiliates-plugin` from **Customize > Plugins**, or run `/plugin install findaffiliates --marketplace Dcmati/findaffiliates-plugin` in Claude Code.
 2. Ask a Bot, or another agent that can browse the web, the prompts below. If the plugin's skills are not picked up automatically, mention the plugin with `@`, or reference one of its skills with `/` if the composer lists it.
 
 Website content changes over time. Check the behavior described in each case rather than exact programs or rankings. Case 2 uses a deterministic calculator, so its numbers should match unless the tool changes.

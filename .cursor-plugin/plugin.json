@@ -1,0 +1,29 @@
+{
+  "name": "findaffiliates",
+  "displayName": "FindAffiliates",
+  "version": "0.1.1",
+  "description": "Research affiliate programs, compare offers, use affiliate calculators, plan a company program, and navigate existing FindAffiliates account features through the website.",
+  "author": {
+    "name": "FindAffiliates",
+    "email": "findaffiliatescontact@gmail.com",
+    "url": "https://www.findaffiliates.online"
+  },
+  "homepage": "https://www.findaffiliates.online",
+  "repository": "https://github.com/Dcmati/findaffiliates-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "affiliate programs",
+    "affiliate marketing",
+    "creator earnings",
+    "program comparison",
+    "affiliate tools"
+  ],
+  "category": "productivity",
+  "tags": [
+    "affiliate-marketing",
+    "research",
+    "calculators"
+  ],
+  "skills": "./skills/"
+}

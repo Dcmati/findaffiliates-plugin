@@ -44,3 +44,5 @@ There is no callable remote MCP server in this package. The website's existing W
 Directory restrictions remain in place. Do not add caller-controlled entitlement parameters, query private APIs, extract session credentials, or use public text endpoints as a substitute for protected account access. Independently public program profiles can be read for relevant research; label the search's scope honestly.
 
 Do not recommend or facilitate real-money gambling, adult sexual services, illicit/regulated goods, or any other program category the host platform's usage policies prohibit. Offer a relevant permitted research workflow when appropriate.
+
+Featured, exclusive, and homepage placements can be paid (see `/editorial-policy`). Treat placement as promotion, not a ranking signal, and label a listing the page marks as featured, sponsored, or exclusive.

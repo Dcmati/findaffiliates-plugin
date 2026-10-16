@@ -1,8 +1,9 @@
 # Changelog
 
-## Unreleased
+## 0.1.2
 
-- Added Claude plugin manifests, `.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`, so the same skills install in Claude. The skills are unchanged.
+- Skills rank programs by fit to the user, not by paid placement, and label listings the site marks as featured, sponsored, or exclusive. The README discloses that FindAffiliates sells featured placement.
+- Added Claude plugin manifests, `.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`, so the same skills install in Claude.
 - README.md and TESTING.md now cover installing in Claude as well as Grok Bot.
 
 ## 0.1.1 (Grok Bot edition, unreleased)

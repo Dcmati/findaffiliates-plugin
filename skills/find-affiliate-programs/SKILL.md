@@ -23,6 +23,8 @@ Read each relevant public program profile or its supported `.md` twin. Preserve 
 
 Exclude programs that facilitate real-money gambling, adult sexual services, or illicit/regulated goods, and any other category the host platform's usage policies prohibit. Do not invent deals, eligibility, region support, or relationships with creators.
 
+Some listings are paid: companies can buy featured, exclusive, or homepage placement, and the FindAffiliates editorial policy says compensation can influence placement or visibility. Rank and recommend by fit to the user's audience and the published terms, never by placement or payment. Do not treat result order, homepage placement, or the Exclusive Deals category as a quality ranking. When a listing is marked featured, sponsored, exclusive, or otherwise promoted, say so next to that program.
+
 Return a concise, relevant shortlist with:
 
 - Why each program fits the user's audience or channel.

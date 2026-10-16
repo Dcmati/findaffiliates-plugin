@@ -43,6 +43,7 @@ This is a skills-only plugin. It contains instructions, not a service: no MCP se
 ## What it will not do
 
 - Buy subscriptions or paid listings, open checkout, or promote upgrades.
+- Rank or recommend programs because they paid for placement. FindAffiliates sells featured and exclusive listings to companies. The plugin ranks by fit to your audience and the published terms, and labels listings the site marks as featured, sponsored, or exclusive.
 - Enroll you in third-party affiliate programs or accept agreements for you.
 - Call private APIs, change entitlement parameters, or open another user's records.
 - Make account changes you did not request. Requested bookmark or listing changes are reported only after the page confirms them.

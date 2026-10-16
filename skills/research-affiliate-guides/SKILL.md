@@ -17,7 +17,7 @@ Use the available browser or public web retrieval. Start with the resource that 
 
 Follow actual relevant article or tool links. Canonical blog paths use `/blog/{slug}`; `/blogs` is an alias. Supported `.md` twins can simplify retrieval if the host can read them. `/llms.txt` is useful for discovering guides but has only a partial program list; `/llms-full.txt` contains blog and product material and can have older product claims. Fetch targeted pages rather than the full corpus for each answer.
 
-Check an article's date and source context. Preserve uncertainty about changing program terms, eligibility, rates, or access. A current program profile or provider-source record can differ from an older guide; say which source supports each claim. Do not present marketing superlatives or visibility promises as independent verification.
+Check an article's date and source context. Preserve uncertainty about changing program terms, eligibility, rates, or access. A current program profile or provider-source record can differ from an older guide; say which source supports each claim. Do not present marketing superlatives or visibility promises as independent verification. Some articles and mentions come with paid listing packages; if a page marks content as sponsored, featured, or paid, say so and do not present it as independent editorial judgment.
 
 Answer the question with relevant source links, then offer the specific existing tool or page that helps carry out the advice. Distinguish directory programs from people to recruit: the site does not currently provide a verified public creator database, content calendar, or bookmark folders. Current calculator and finder access depends on the user's session.
 
